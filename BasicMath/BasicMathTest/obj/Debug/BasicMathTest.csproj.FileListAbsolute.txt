@@ -1,0 +1,19 @@
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.dll
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMath.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csprojResolveAssemblyReference.cache
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.dll
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.pdb
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.dll
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.pdb
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMath.exe
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\bin\Debug\BasicMath.pdb
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csprojResolveAssemblyReference.cache
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.dll
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.pdb
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\bin\Debug\nunit.engine.dll
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\bin\Debug\nunit.engine.api.dll
+C:\Users\shashank\Downloads\UnitTest\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.CoreCompileInputs.cache
